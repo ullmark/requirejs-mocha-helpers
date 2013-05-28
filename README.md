@@ -1,2 +1,3 @@
-requirejs-mocha-spechelpers
-===========================
+requirejs-mocha-helpers
+========================
+

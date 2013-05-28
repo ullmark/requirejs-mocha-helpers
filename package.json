@@ -1,0 +1,24 @@
+{
+  "name": "requirejs-mocha-helpers",
+  "version": "0.0.0",
+  "description": "requirejs-mocha-spechelpers",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ullmark/requirejs-mocha-helpers.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "bf183cbf603ffcc7e237da4f485fa50ec744e814",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-mocha": "~0.3.2"
+  }
+}
